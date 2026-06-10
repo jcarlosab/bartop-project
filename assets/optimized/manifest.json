@@ -1,0 +1,1012 @@
+{
+  "assets/imagenes/fotos/photo_2026-06-09_19-07-09.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-800w.avif"
+      },
+      {
+        "width": 1144,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-1144w.jpg"
+      },
+      {
+        "width": 1144,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-1144w.webp"
+      },
+      {
+        "width": 1144,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/photo_2026-06-09_19-07-09-1144w.avif"
+      }
+    ]
+  },
+  "assets/imagenes/boceto_0.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "png",
+        "path": "assets/optimized/assets/imagenes/boceto_0-240w.png"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/boceto_0-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/boceto_0-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "png",
+        "path": "assets/optimized/assets/imagenes/boceto_0-480w.png"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/boceto_0-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/boceto_0-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "png",
+        "path": "assets/optimized/assets/imagenes/boceto_0-1200w.png",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/boceto_1.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "png",
+        "path": "assets/optimized/assets/imagenes/boceto_1-240w.png"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/boceto_1-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/boceto_1-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "png",
+        "path": "assets/optimized/assets/imagenes/boceto_1-480w.png"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/boceto_1-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/boceto_1-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "png",
+        "path": "assets/optimized/assets/imagenes/boceto_1-1200w.png",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/modelos/prototipos.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "png",
+        "path": "assets/optimized/assets/modelos/prototipos-240w.png"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/modelos/prototipos-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/modelos/prototipos-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "png",
+        "path": "assets/optimized/assets/modelos/prototipos-480w.png"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/modelos/prototipos-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/modelos/prototipos-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "png",
+        "path": "assets/optimized/assets/modelos/prototipos-1200w.png",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201107_114338721_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_114338721_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201107_130646569_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_130646569_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201107_142256163_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_142256163_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201128_113541033_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201128_113541033_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201205_185305034_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201205_185305034_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201212_195814714_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-240w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-480w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201212_195814714_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201223_165519388_iOS.jpg": {
+    "contexts": [
+      "gallery"
+    ],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-240w.avif"
+      },
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-400w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-480w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201223_165519388_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20210116_123437004_iOS.jpg": {
+    "contexts": [
+      "gallery"
+    ],
+    "variants": [
+      {
+        "width": 240,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-240w.jpg"
+      },
+      {
+        "width": 240,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-240w.webp"
+      },
+      {
+        "width": 240,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-240w.avif"
+      },
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-400w.avif"
+      },
+      {
+        "width": 480,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-480w.jpg"
+      },
+      {
+        "width": 480,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-480w.webp"
+      },
+      {
+        "width": 480,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-480w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20210116_123437004_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201107_140354977_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_140354977_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201107_173931040_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_173931040_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201107_181036752_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201107_181036752_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201213_001657619_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_001657619_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201213_185128250_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201213_185128250_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201220_163812270_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201220_163812270_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/imagenes/fotos/20201227_130456117_iOS.jpg": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-400w.jpg"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-800w.jpg"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "jpg",
+        "path": "assets/optimized/assets/imagenes/fotos/20201227_130456117_iOS-1200w.jpg",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/planos/cad_bartop_v2.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-400w.png"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-800w.png"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-800w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/cad_bartop_v2-1200w.png",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/planos/lateral_1.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/lateral_1-400w.png"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/planos/lateral_1-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/planos/lateral_1-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/lateral_1-800w.png"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/planos/lateral_1-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/planos/lateral_1-800w.avif"
+      },
+      {
+        "width": 752,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/lateral_1-752w.png",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/planos/lateral_2.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 400,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/lateral_2-400w.png"
+      },
+      {
+        "width": 400,
+        "format": "webp",
+        "path": "assets/optimized/assets/planos/lateral_2-400w.webp"
+      },
+      {
+        "width": 400,
+        "format": "avif",
+        "path": "assets/optimized/assets/planos/lateral_2-400w.avif"
+      },
+      {
+        "width": 800,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/lateral_2-800w.png"
+      },
+      {
+        "width": 800,
+        "format": "webp",
+        "path": "assets/optimized/assets/planos/lateral_2-800w.webp"
+      },
+      {
+        "width": 800,
+        "format": "avif",
+        "path": "assets/optimized/assets/planos/lateral_2-800w.avif"
+      },
+      {
+        "width": 848,
+        "format": "png",
+        "path": "assets/optimized/assets/planos/lateral_2-848w.png",
+        "lightbox": true
+      }
+    ]
+  },
+  "assets/circuito/Boceto electrónico recreativa.png": {
+    "contexts": [],
+    "variants": [
+      {
+        "width": 600,
+        "format": "png",
+        "path": "assets/optimized/assets/circuito/Boceto electrónico recreativa-600w.png"
+      },
+      {
+        "width": 600,
+        "format": "webp",
+        "path": "assets/optimized/assets/circuito/Boceto electrónico recreativa-600w.webp"
+      },
+      {
+        "width": 600,
+        "format": "avif",
+        "path": "assets/optimized/assets/circuito/Boceto electrónico recreativa-600w.avif"
+      },
+      {
+        "width": 1200,
+        "format": "png",
+        "path": "assets/optimized/assets/circuito/Boceto electrónico recreativa-1200w.png"
+      },
+      {
+        "width": 1200,
+        "format": "webp",
+        "path": "assets/optimized/assets/circuito/Boceto electrónico recreativa-1200w.webp"
+      },
+      {
+        "width": 1200,
+        "format": "avif",
+        "path": "assets/optimized/assets/circuito/Boceto electrónico recreativa-1200w.avif"
+      }
+    ]
+  }
+}

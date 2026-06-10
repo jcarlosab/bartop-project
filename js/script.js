@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     document.querySelectorAll('.gallery-item img, .timeline-photos img').forEach(img => {
         img.addEventListener('click', function() {
-            lightboxImg.src = this.src;
+            const lightboxSrc = this.getAttribute('data-lightbox') || this.src;
+            lightboxImg.src = lightboxSrc;
             lightboxImg.alt = this.alt;
             lightbox.classList.add('active');
             document.body.style.overflow = 'hidden';
